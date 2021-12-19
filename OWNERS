@@ -1,7 +1,9 @@
 approvers:
     - shaowenchen
     - linuxsuren
+    - johnniang
 
 reviewers:
     - runzexia #oncall
     - shaowenchen
+    - johnniang
